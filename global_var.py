@@ -1,0 +1,10 @@
+hut_coord = set()
+barbarian_coord = set()
+king_coord = set()
+townhall_coord = set()  
+wall_coord = set() 
+all_coord = set()
+king_move=0
+king_x = 10
+king_y = 10
+last_move = 'n'
