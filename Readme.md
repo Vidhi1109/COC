@@ -1,4 +1,4 @@
-# CLash Of Clans REPLICA
+# CLash Of Clans Replica
 This is a replica of clash of clans made from scratch in python without the use of any curses library.All characters of the game are made using ASCII characters.
 ## How to run?
 ```
