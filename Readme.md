@@ -1,18 +1,25 @@
 # CLash Of Clans REPLICA
-
+## How to run?
+```
+python3 main.py
+```
+## For Replay
+```
+python3 replay.py
+```
 ## Player Controls
 ### Movement Controls
 ```
-W-Move Up<br>
-A-Move Left<br>
-S-Move Down<br>
-D-Move Right<br>
+W-Move Up
+A-Move Left
+S-Move Down
+D-Move Right
 ```
 ### How to attack?
 ```
 Space-Attack
-R-Activate Rage Spell<br>
-H-Activate Heal Spell<br>
+R-Activate Rage Spell
+H-Activate Heal Spell
 ```
 ### Troop calls
 ```
@@ -25,8 +32,4 @@ H-Activate Heal Spell<br>
 Q-Quit
 ```
 
-## To run
-python3 main.py
 
-## For Replay
-python3 replay.py
