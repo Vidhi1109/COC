@@ -1,6 +1,7 @@
 # CLash Of Clans REPLICA
 
 ## Player Control
+```
 W-Move Up<br>
 A-Move Left<br>
 S-Move Down<br>
@@ -8,6 +9,7 @@ D-Move Right<br>
 R-Activate Rage Spell<br>
 H-Activate Heal Spell<br>
 Space-Attack
+```
 Q-Quit
 1,2,3 for barbarians 
 4,5,6 for archers 
