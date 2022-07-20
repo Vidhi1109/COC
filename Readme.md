@@ -1,6 +1,6 @@
-# COC REPLICA
+# CLash Of Clans REPLICA
 
-##Player Control
+## Player Control
 W-Move Up<br>
 A-Move Left<br>
 S-Move Down<br>
@@ -12,8 +12,8 @@ Q-Quit
 1,2,3 for barbarians 
 4,5,6 for archers 
 7,8,9 for ballons
-##To run
+## To run
 python3 main.py
 
-##For Replay
+## For Replay
 python3 replay.py
