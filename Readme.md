@@ -11,16 +11,16 @@ python3 replay.py
 ## Player Controls
 ### Movement Controls
 ```
-W-Move Up
-A-Move Left
-S-Move Down
-D-Move Right
+W - Move Up
+A - Move Left
+S - Move Down
+D - Move Right
 ```
 ### How to attack?
 ```
-Space-Attack
-R-Activate Rage Spell
-H-Activate Heal Spell
+Space - Attack
+R - Activate Rage Spell
+H - Activate Heal Spell
 ```
 ### Troop calls
 ```
