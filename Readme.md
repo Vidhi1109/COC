@@ -11,7 +11,7 @@ python3 replay.py
 ## Player Controls
 ### Movement Controls
 ```
-<b>W</b>-Move Up
+W-Move Up
 A-Move Left
 S-Move Down
 D-Move Right
