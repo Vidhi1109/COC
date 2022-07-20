@@ -1,4 +1,4 @@
-#COC REPLICA
+# COC REPLICA
 
 ##Player Control
 W-Move Up<br>
