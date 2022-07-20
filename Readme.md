@@ -1,8 +1,7 @@
 # CLash Of Clans REPLICA
+This is a replica of clash of clans made from scratch in python without the use of any curses library.All characters of the game are made using ASCII characters.
 ## How to run?
 ```
-Clone the repository or download the source code manually.
-cd `name_of_directory`
 python3 main.py
 ```
 ## For Replay
@@ -12,7 +11,7 @@ python3 replay.py
 ## Player Controls
 ### Movement Controls
 ```
-W-Move Up
+<b>W</b>-Move Up
 A-Move Left
 S-Move Down
 D-Move Right
