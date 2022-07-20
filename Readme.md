@@ -24,9 +24,9 @@ H - Activate Heal Spell
 ```
 ### Troop calls
 ```
-1,2,3 for barbarians 
-4,5,6 for archers 
-7,8,9 for ballons
+Press 1/2/3 for barbarians 
+Press 4/5/6 for archers 
+Press 7/8/9 for ballons
 ```
 ### To exit the game
 ```
