@@ -1,6 +1,8 @@
 # CLash Of Clans REPLICA
 ## How to run?
 ```
+Clone the repository or download the source code manually.
+cd `name_of_directory`
 python3 main.py
 ```
 ## For Replay
